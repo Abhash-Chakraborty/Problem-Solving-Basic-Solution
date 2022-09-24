@@ -1,2 +1,6 @@
-# Problem-Solving-Basic-Solution
-Here is the solution of the problem solving (Basic) challenge by HackerRank
+# HackerRank Problem Solving (Basic) 
+
+## Authors
+
+- [@Abhash-Chakraborty](https://www.github.com/octokatherine)
+
